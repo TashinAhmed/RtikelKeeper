@@ -1,26 +1,25 @@
-def articles():
+def Articles():
     articles = [
         {
             'id': 1,
-            'title':'article one',
-            'body':'asdjasdj jas dkjasdkjas dkjas dkjas dkj sd',
-            'author':'Tashin Ahmed',
-            'create_date': '06-01-2020'
+            'title':'Article One',
+            'body':'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+            'author':'Brad Traversy',
+            'create_date':'04-25-2017'
         },
         {
             'id': 2,
-            'title':'article two',
-            'body':'asdjasdj jas asdasdas asdasdasdas dkjas dkjas dkj sd',
-            'author':'Tashin Ahmed',
-            'create_date': '26-01-2020'
+            'title':'Article Two',
+            'body':'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+            'author':'John Doe',
+            'create_date':'04-25-2017'
         },
         {
             'id': 3,
-            'title':'article three',
-            'body':'asdjasdj jas dkjasdkjassbasd sij kjd d asj dkjas dkj sd',
-            'author':'Tashin Ahmed',
-            'create_date': '15-06-2010'
+            'title':'Article Three',
+            'body':'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+            'author':'Brad Traversy',
+            'create_date':'04-25-2017'
         }
     ]
     return articles
-    
