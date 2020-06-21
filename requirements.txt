@@ -1,0 +1,5 @@
+flask==1.1.2
+flask_mysqldb==0.2.0 
+wtforms==2.3.1 
+passlib==1.7.2
+functools==3.8 
